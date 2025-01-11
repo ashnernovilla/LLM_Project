@@ -9,3 +9,9 @@ This project is a **Proof of Concept (PoC)** showcasing a chatbot built using **
 - **Natural Language Understanding**: Utilizes OpenAI's GPT-3.5-turbo for intelligent text parsing and response generation.
 - **Streamlit Integration**: An intuitive web interface for seamless interaction with the bot.
 - **Dynamic Streaming**: Bot responses are displayed dynamically for a conversational experience.
+
+---
+## Created By:
+- **Ashner Novilla **
+
+
